@@ -84,6 +84,9 @@ gap: 46px;
 
 }
 
+.kontakt-icon{
+fill:rgba(117, 117, 117, 1);
+}
 .nav-list-2{
 display:flex;
 gap: 50px; 
