@@ -128,7 +128,6 @@ color: var(--brand-color);
 .kontakt:hover .kontakt-icon,
 .kontakt:focus-within .kontakt-icon{
  fill: var(--brand-color); 
- 
 }
 
 .kontakt{
